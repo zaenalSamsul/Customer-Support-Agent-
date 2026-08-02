@@ -1,4 +1,4 @@
-# 🎧 Customer Support Agent — Portofolio Fase 3 Agentic AI
+# 🎧 Customer Support Agent
 
 Production-grade customer support agent dengan LangGraph, RAG, Guardrails, HITL, dan Langfuse monitoring. **100% gratis** menggunakan Ollama (lokal) atau Groq (free tier).
 
@@ -60,7 +60,7 @@ streamlit run app.py
 
 ---
 
-## 💡 Nilai Portofolio (Fase 3)
+## 💡 Fitur 
 
 | Fitur | Implementasi |
 |---|---|
